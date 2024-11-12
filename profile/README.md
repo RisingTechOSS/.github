@@ -1,15 +1,13 @@
-![RisingTechOSS](https://github.com/RisingTechOSS/.github/raw/master/profile/risingOS_banner.png)
+<p align="center">
+<img src="https://github.com/RisingTechOSS/android/blob/fifteen/risingOS_banner.png">
+</p>
 
-the RisingOS Android Project
-=============================
+What is RisingOS?
+---------------
+risingOS is a OpenSource Aftermarket Android Operating System that aims to bring unique and fresh user experience.
 
-[![Download RisingOS](https://github.com/RisingTechOSS/.github/raw/master/profile/download.png)](https://www.pling.com/p/1619738/)
-
-Welcome to Rising Tech Open Source Software! 
-
-Now is your chance to try the RisingOS Android Project on your device!
-
-### Where to start
+Where to start
+---------------
 
 Please visit the following repositories for better insights:
 
@@ -23,7 +21,8 @@ After visiting these repositories, familiarize yourself with our build system an
 
 - Adapt your device tree / create files according to our method.
 
-### Important Links
+Important Links
+---------------
 
 Feel free to visit our Telegram group.
 
